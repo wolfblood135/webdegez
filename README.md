@@ -1,9 +1,5 @@
-<html>
-   <head>
-      <title>Home</title>
-   </head>
+<hrml>
    <body>
-      <h1>Phone Number</h1>
       <?php include('index.php') ?>
    </body>
 </html>
